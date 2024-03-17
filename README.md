@@ -1,5 +1,5 @@
-# todo-vue
-Example of a basic Todo app created with Vue 3
+# note-vue
+Notepad app (based on Vue3's Todo app)
 
 # Vue 3 + Vite
 
