@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        @todo-vue-app
+        @note-vue Vue.js - メモ帳
     </div>
 </template>
 
@@ -11,5 +11,6 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    font-size: 0.8em;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <h1 class="title">TODO</h1>
+    <h1 class="title">メモ帳（簡易版）</h1>
 </template>
 
 <script setup></script>
@@ -11,6 +11,5 @@
     padding: 0.5em;
     font-weight: bolder;
     text-align: center;
-    background-color: #cefefc;
 }
 </style>
